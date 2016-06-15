@@ -55,10 +55,10 @@ delete artistsAndSongs["Justin Bieber"]
 
 ?: What are the keys in the object after running the above code?
 
-( ) ['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber', 'Daft Punk']
-( ) ['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber']
-( ) ['Prince', 'The Beatles', 'Joni Mitchell']
-(x) ['Prince', 'The Beatles', 'Joni Mitchell', 'Daft Punk']
+( ) `['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber', 'Daft Punk']`
+( ) `['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber']`
+( ) `['Prince', 'The Beatles', 'Joni Mitchell']`
+(x) `['Prince', 'The Beatles', 'Joni Mitchell', 'Daft Punk']`
 
 ?: If we then run `artistsAndSongs['Daft Punk'].push("Around the World")`, what is the value of the object?
 
