@@ -110,10 +110,10 @@ const sevenEightNine = [7, 8, 9]
 [4, 5, 6, ...oneTwoThree, ...sevenEightNine]
 ```
 
-( ) [4, 5, 6, 7, 8, 9, 1, 2, 3]
-(x) [4, 5, 6, 1, 2, 3, 7, 8, 9]
-( ) [1, 2, 3, 4, 5, 6, 7, 8, 9]
-( ) Error
+( ) `[4, 5, 6, 7, 8, 9, 1, 2, 3]`
+(x) `[4, 5, 6, 1, 2, 3, 7, 8, 9]`
+( ) `[1, 2, 3, 4, 5, 6, 7, 8, 9]`
+( ) `Error`
 
 ?: Given the array `const letters = ["alpha", "gamma", "delta"]`, which operation(s) result(s) in the array `["alpha", "beta", "gamma", "delta"]`?
 
