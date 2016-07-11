@@ -1,7 +1,8 @@
-JavaScript: Objects and Arrays Quiz
----
+# JavaScript: Objects and Arrays Quiz
 
 ???
+
+# JavaScript: Objects and Arrays Quiz
 
 ?: Given a number of elements that need to stay in order, would you use an Object or an Array?
 
@@ -122,3 +123,5 @@ const sevenEightNine = [7, 8, 9]
 (x) `[...letters.slice(0, 1), 'beta', ...letters.slice(1)]`
 ( ) `letters.splice(1, 1, 'beta')`
 (x) `letters.splice(1, 0, 'beta')`
+
+???
