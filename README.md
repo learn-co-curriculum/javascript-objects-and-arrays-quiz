@@ -39,6 +39,7 @@ dogs.length = 1
 (x) The array becomes just `["Fido"]`
 ( ) The array becomes just `["Odie", "Oscar"]`
 
+
 Refer to the following code snippet to answer the next two questions.
 
 ``` javascript
@@ -125,3 +126,5 @@ const sevenEightNine = [7, 8, 9]
 (x) `letters.splice(1, 0, 'beta')`
 
 ???
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-objects-and-arrays-quiz'>Javascript Objects And Arrays Quiz</a> on Learn.co and start learning to code for free.</p>
