@@ -39,7 +39,7 @@ dogs.length = 1
 (x) The array becomes just `["Fido"]`
 ( ) The array becomes just `["Odie", "Oscar"]`
 
-Refer to the following code snippet to answer the next two questions.
+?: Refer to the following code snippet to answer the next two questions.
 
 ``` javascript
 const artistsAndSongs = {
