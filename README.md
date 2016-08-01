@@ -39,7 +39,7 @@ dogs.length = 1
 (x) The array becomes just `["Fido"]`
 ( ) The array becomes just `["Odie", "Oscar"]`
 
-Refer to the following code snippet to answer the next two questions.
+?: What are the keys in the object after running the code below?
 
 ``` javascript
 const artistsAndSongs = {
@@ -54,14 +54,25 @@ artistsAndSongs['Daft Punk'] = ["Harder, Better, Faster, Stronger"]
 delete artistsAndSongs["Justin Bieber"]
 ```
 
-?: What are the keys in the object after running the above code?
-
 ( ) `['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber', 'Daft Punk']`
 ( ) `['Prince', 'The Beatles', 'Joni Mitchell', 'Justin Bieber']`
 ( ) `['Prince', 'The Beatles', 'Joni Mitchell']`
 (x) `['Prince', 'The Beatles', 'Joni Mitchell', 'Daft Punk']`
 
-?: If we then run `artistsAndSongs['Daft Punk'].push("Around the World")`, what is the value of the object?
+?: If we run `artistsAndSongs['Daft Punk'].push("Around the World")` after running the code below, what is the value of the object?
+
+``` javascript
+const artistsAndSongs = {
+  Prince: ["Purple Rain", "When Doves Cry"],
+  'The Beatles': ["Revolution", "Norwegian Wood"],
+  'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
+  'Justin Bieber': ["Baby"]
+}
+
+artistsAndSongs['Daft Punk'] = ["Harder, Better, Faster, Stronger"]
+
+delete artistsAndSongs["Justin Bieber"]
+```
 
 ( )
 ``` javascript
