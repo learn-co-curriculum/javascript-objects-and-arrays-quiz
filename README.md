@@ -43,7 +43,7 @@ dogs.length = 1
 
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
   'Justin Bieber': ["Baby"]
@@ -136,3 +136,5 @@ const sevenEightNine = [7, 8, 9]
 (x) `letters.splice(1, 0, 'beta')`
 
 ???
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-objects-and-arrays-quiz'>Javascript Objects And Arrays Quiz</a> on Learn.co and start learning to code for free.</p>
