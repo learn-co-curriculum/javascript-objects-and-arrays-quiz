@@ -16,13 +16,13 @@
 
 ?: True or false: All the elements in an array must be of the same type.
 
-( ) True
-(x) False
+(x) True
+( ) False
 
 ?: True or false: All keys in an object are strings.
 
-(x) True
-( ) False
+( ) True
+(x) False
 
 ?: What happens to the array in the following code snippet?
 
@@ -74,7 +74,7 @@ artistsAndSongs['Daft Punk'] = ["Harder, Better, Faster, Stronger"]
 delete artistsAndSongs["Justin Bieber"]
 ```
 
-( )
+(x)
 ``` javascript
 const artistsAndSongs = {
   Prince: ["Purple Rain", "When Doves Cry"],
@@ -84,7 +84,7 @@ const artistsAndSongs = {
 }
 ```
 
-(x)
+( )
 ``` javascript
 const artistsAndSongs = {
   Prince: ["Purple Rain", "When Doves Cry"],
@@ -133,7 +133,7 @@ const sevenEightNine = [7, 8, 9]
 ( ) `letters.unshift('beta')`
 (x) `[...letters.slice(0, 1), 'beta', ...letters.slice(1)]`
 ( ) `letters.splice(1, 1, 'beta')`
-(x) `letters.splice(1, 0, 'beta')`
+( ) `letters.splice(1, 0, 'beta')`
 
 ???
 
