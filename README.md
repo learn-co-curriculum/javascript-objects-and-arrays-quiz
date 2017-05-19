@@ -63,7 +63,7 @@ delete artistsAndSongs["Justin Bieber"]
 
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
   'Justin Bieber': ["Baby"]
@@ -77,7 +77,7 @@ delete artistsAndSongs["Justin Bieber"]
 ( )
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
   'Daft Punk': ["Harder, Better, Faster, Stronger"]
@@ -87,7 +87,7 @@ const artistsAndSongs = {
 (x)
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
   'Daft Punk': ["Harder, Better, Faster, Stronger", "Around the World"]
@@ -97,7 +97,7 @@ const artistsAndSongs = {
 ( )
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"],
   'Daft Punk': ["Around the World"]
@@ -107,7 +107,7 @@ const artistsAndSongs = {
 ( )
 ``` javascript
 const artistsAndSongs = {
-  Prince: ["Purple Rain", "When Doves Cry"],
+  'Prince': ["Purple Rain", "When Doves Cry"],
   'The Beatles': ["Revolution", "Norwegian Wood"],
   'Joni Mitchell': ["A Case of You", "Sunny Sunday"]
 }
