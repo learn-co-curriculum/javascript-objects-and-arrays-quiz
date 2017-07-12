@@ -127,7 +127,7 @@ const sevenEightNine = [7, 8, 9]
 ( ) `[1, 2, 3, 4, 5, 6, 7, 8, 9]`
 ( ) `Error`
 
-?: Given the array `const letters = ["alpha", "gamma", "delta"]`, which operation(s) _return_ in the array `["alpha", "beta", "gamma", "delta"]`?
+?: Given the array `const letters = ["alpha", "gamma", "delta"]`, which operation(s) _return_ the array `["alpha", "beta", "gamma", "delta"]`?
 
 ( ) `letters.push("beta")`
 ( ) `letters.unshift('beta')`
